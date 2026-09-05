@@ -1,0 +1,9 @@
+{
+  "name": "deal-alert-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily deal checker for Mewgenics, Endacopia, and CrossOver, with email alerts.",
+  "engines": {
+    "node": ">=18"
+  }
+}
